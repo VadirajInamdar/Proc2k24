@@ -1204,7 +1204,7 @@ if(!isset($_SESSION)){
 										<tr>
 											<td>Participants</td>
 											<td>:</td>
-											<td>8-16 per Department</td>
+											<td>8-16 per Department ( Including faculty )</td>
 										</tr>
 										<tr>
 											<td>Duration</td>
@@ -1214,7 +1214,7 @@ if(!isset($_SESSION)){
 										<tr>
 											<td>Judgement Criteria &nbsp;</td>
 											<td>:</td>
-											<td>Sound of Vocals above Instruments, Coordination, Dressup, Stage
+											<td>Sound of vocals above Instruments, Coordination, Dressup, Stage
 												Presence, Energy</td>
 										</tr>
 
@@ -1229,7 +1229,7 @@ if(!isset($_SESSION)){
 
 								<ol>
 
-									<li>Each group must have min 2 and Max 4 ghumat vadaks.
+									<li>Each group must have minimum 2 and maximum 4 ghumat vadaks.
 									</li>
 									<li>Maximum two faculty participation earns 25 bonus points. </li>
 									<li>Each group must perform: <br>
@@ -1256,9 +1256,10 @@ if(!isset($_SESSION)){
 											<td>&nbsp;9373405068</td>
 										</tr>
 										<tr>
-											<td>Vivek Bobade(FE COMP-2)</td>
-											<td>&nbsp;9371410141</td>
-										</tr>		
+											<td>Mohammed Sidique(FE COMP-1)</td>
+											<br>
+											<td>&nbsp;9699843397</td>
+										</tr>
 										<tr>
 											<td> <br>
 												<strong>Faculty Co-ordinator :</strong>
@@ -1578,10 +1579,9 @@ if(!isset($_SESSION)){
 											<td><strong>Mobile No.</strong></td>
 										</tr>
 										<tr>
-											<td>Mohammed Sidique(FE COMP-1)</td>
-											<br>
-											<td>9699843397</td>
-										</tr>
+											<td>Vivek Bobade(FE COMP-2)</td>
+											<td>&nbsp;9371410141</td>
+										</tr>	
 										<tr>
 											<td>Umar Korbe(TE ECS)</td>
 											<br>
