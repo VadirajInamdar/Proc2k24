@@ -1396,8 +1396,7 @@ if(!isset($_SESSION)){
 									<li>The musicians accompanying the participants have to carry their own musical
 										instruments.</li>
 									<li>The singers can also play the instruments, provided they sing as well.</li>
-									<li>The singers can also provide karaoke tracks to the coordinators before 16th May
-										5pm.
+									<li>The singers can also provide karaoke tracks to the coordinators before 2 March 2024 by 5 pm.
 									</li>
 									<li> If the karaoke track contains any form of vocals (main or backup) then that
 										team will be disqualified.</li>
