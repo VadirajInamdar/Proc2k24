@@ -2614,7 +2614,7 @@ if(!isset($_SESSION)){
 										<tr>
 											<td>Total No. Participants : &nbsp;</td>
 											<td>:</td>
-											<td>OPEN(No restrictions for number of participants)</td>
+											<td>OPEN(No restrictions for number of participants) </td>
 										</tr>
 
 										<tr>
@@ -2627,6 +2627,7 @@ if(!isset($_SESSION)){
 								</table>
 
 								<ol>
+									<li> Details of all the participants should be mentioned at the time of registration.</li>
 
 									<li> Suicidal topics are strictly banned. </li>
 									<li> Caution should be taken to refrain from displaying obscenity, vulgarity,
@@ -2637,7 +2638,7 @@ if(!isset($_SESSION)){
 									<li> Use of drones is allowed.</li>
 									<li> Any video editing app/software can be used but the final video file should be
 										either in AVI format or MP4 format </li>
-									<li> Participants has to submit their videos on or before 17th May by 3:00 pm.</li>
+									<li> Participants has to submit their videos on or before 4th March 2024 by 3:00 pm.</li>
 									<li> Videos submitted after the appointed time will be rejected</li>
 									<li> The movie should also be uploaded on YouTube and the link will be posted on the
 										official PROCYON website and Facebook and Instagram handles.</li>
