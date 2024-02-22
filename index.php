@@ -1,5 +1,5 @@
 <?php
-if(!isset($_SESSION)){
+if (!isset($_SESSION)) {
 	session_start();
 }
 ?>
@@ -23,7 +23,7 @@ if(!isset($_SESSION)){
 	<link href="assets/css/slick.css" rel="stylesheet">
 	<!-- Theme color -->
 	<link id="switcher" href="assets/css/theme-color/default-theme.css" rel="stylesheet">
-	
+
 
 	<!-- sponsorslider -->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
@@ -678,7 +678,7 @@ if(!isset($_SESSION)){
 												Faculty members cannot participate in class events
 											</li>
 											<li>
-												<b>Allocation of joker cards is compulsory for both 
+												<b>Allocation of joker cards is compulsory for both
 													department & class events.</b>
 											</li>
 											<li>
@@ -853,7 +853,7 @@ if(!isset($_SESSION)){
 							</div>
 
 							<div class="mu-register-content">
-							<form class="mu-register-form" action="login.php"  method="POST">
+								<form class="mu-register-form" action="login.php" method="POST">
 
 									<div class="row">
 										<div class="col-md-4">
@@ -876,8 +876,8 @@ if(!isset($_SESSION)){
 										</div>
 									</div>
 									<button type="submit" name="login" class="mu-reg-submit-btn">LOG IN</button>
-							</form>
-								
+								</form>
+
 							</div>
 						</div>
 
@@ -1043,8 +1043,8 @@ if(!isset($_SESSION)){
 												<div class="card">
 													<div class="card-body">
 														<h5 class="card-title">Prof.<br> Amey K Shet Tilve</h5>
-														<p class="card-text" ><b>Cultural Incharge DBCE</b></p>
-				
+														<p class="card-text"><b>Cultural Incharge DBCE</b></p>
+
 													</div>
 												</div>
 											</div>
@@ -1265,7 +1265,7 @@ if(!isset($_SESSION)){
 												<strong>Faculty Co-ordinator :</strong>
 											</td>
 										</tr>
-										
+
 
 										<tr>
 											<td>Prof. Sanjeel Naik &nbsp; </td>
@@ -1517,9 +1517,9 @@ if(!isset($_SESSION)){
 										<tr>
 											<td>Theme</td>
 											<td>:</td>
-											<td>TBD</td>
-										</tr>
+											<td>Social media circus</td>
 
+										</tr>
 
 										<tr>
 											<td>Scoring</td>
@@ -1580,7 +1580,7 @@ if(!isset($_SESSION)){
 										<tr>
 											<td>Vivek Bobade(FE COMP-2)</td>
 											<td>&nbsp;9371410141</td>
-										</tr>	
+										</tr>
 										<tr>
 											<td>Umar Korbe(TE ECS)</td>
 											<br>
@@ -1597,7 +1597,7 @@ if(!isset($_SESSION)){
 												<strong>Faculty Co-ordinator :</strong>
 											</td>
 										</tr>
-										
+
 										<tr>
 											<td>Prof. Amey Kerkar</td>
 
@@ -1902,7 +1902,7 @@ if(!isset($_SESSION)){
 											<td>Prof. Chetan Gaonkar &nbsp;</td>
 
 										</tr>
-										
+
 										<tr>
 											<td>Ms. Mancia Lobo &nbsp;</td>
 
@@ -2026,11 +2026,14 @@ if(!isset($_SESSION)){
 								</table>
 
 								<ol>
-									<li> Participants have to get their own materials and hoist.</li>
-									<li> Size of the flag should be strictly 70cm x 60cm .</li>
-									<li> Flag should be hoisted on a 2m hoist.</li>
-									<li> Participants have to use white backdrop color.</li>
-									<li> The flag has to be sturdy and should not fall apart if it is waved.</li>
+									<li>Participants have to get their own materials and hoist.</li>
+									<li>Size of the flag should be strictly 70cm x 60cm .</li>
+									<li>Flag should be hoisted on a 2m hoist.</li>
+									<li>Participants have to use white backdrop color. </li>
+									<li>The flag has to be sturdy and should not fall apart if it is waved. </li>
+									<li>Participants are responsible for cleaning up their work area after the competition ends.</li>
+									<li>Flags must not contain any offensive, inappropriate imagery. </li>
+									<li>Judges' decisions are final and binding, and no appeals or disputes will be entertained after the winners are announced.</li>
 								</ol>
 
 								<br>
@@ -2066,7 +2069,7 @@ if(!isset($_SESSION)){
 										<tr>
 											<td>Mr. Arun Sail</td>
 										</tr>
-									
+
 									</tbody>
 								</table>
 								<p></p>
@@ -2197,6 +2200,11 @@ if(!isset($_SESSION)){
 										judges and the list of item used should be mentioned. </li>
 									<li> Participants are allowed to go fetch ingredients within the same time duration.
 										It is compulsory to present your dish before or at sharp 1:30pm. </li>
+									<li>
+
+
+										Participants can carry their own aprons, gloves and hair caps for the competition, not compulsory
+									</li>
 								</ol>
 
 								<br>
@@ -2367,6 +2375,10 @@ if(!isset($_SESSION)){
 											<td> <br>
 												<strong>Faculty Co-ordinator :</strong>
 											</td>
+										</tr>
+										<tr>
+											<td>Dr. Amrita Naik &nbsp; </td>
+
 										</tr>
 										<tr>
 											<td>Prof. Starina Dias &nbsp; </td>
@@ -2940,7 +2952,7 @@ if(!isset($_SESSION)){
 									<li> Use of props is allowed, however no extra time will be given for stage setup.
 									</li>
 									<li> Marks will be deducted if team exceeds its appointed time .</li>
-									<li> Music track should be submitted before 15th May 5pm, in a pendrive. </li>
+									<li> Music track should be submitted before 2nd March 5pm, in a pendrive. </li>
 									<li> Faculty must perform on the stage for a minimum of 2 minutes. </li>
 								</ol>
 
@@ -2975,7 +2987,7 @@ if(!isset($_SESSION)){
 												<strong>Faculty Co-ordinator :</strong>
 											</td>
 										</tr>
-										
+
 										<tr>
 											<td>Prof. Kimberly Morais &nbsp; </td>
 
@@ -2985,7 +2997,7 @@ if(!isset($_SESSION)){
 
 										</tr>
 										<tr>
-											<td>Mr. Johnson Vaz &nbsp; </td>
+											<td>Mr. Joyston Menezes &nbsp; </td>
 
 										</tr>
 									</tbody>
@@ -3075,7 +3087,7 @@ if(!isset($_SESSION)){
 										<tr>
 											<td>Duration</td>
 											<td>:</td>
-											<td>1hr 30mins</td>
+											<td>2 hours</td>
 											<br>
 										</tr>
 										<tr>
@@ -3083,16 +3095,15 @@ if(!isset($_SESSION)){
 											<td></td>
 											<td>
 												<ol>
-													<li> Introduction(1min), Ramp Walk and Talent round(4mins max)</li>
-													<li> Question Answer Round (2 minutes)</li>
+													<li> Round 1:- Introduction & Ramp Walk (2 mins max)</li>
+													<li> Round 2:- Question Answer Round & voting poll(2 minutes)</li>
 												</ol>
 											</td>
 										</tr>
 										<tr>
 											<td>Judgement Criteria &nbsp;</td>
 											<td>:</td>
-											<td>Outfit, Personality, Talent showcase, Questions fielded, overall
-												impression. </td>
+											<td>Attire, Personality, Talent showcase, Questions fielded, faculty participation,community service & voting poll.</td>
 										</tr>
 
 										<tr>
@@ -3105,9 +3116,9 @@ if(!isset($_SESSION)){
 								</table>
 
 								<ol>
-									<li> Dress code is decent formals.</li>
+									<!-- <li>The dress code is decent formal.</li>
 
-									<li> Participants should inform the coorinators well in advance about the talent
+									<li> The participants should upload their talent performance video ( 2mins ) at the time  the coorinators well in advance about the talent
 										he/she will be performing and the consequent stage requirements for it </li>
 									<li> Vulgarity of any kind should not be portrayed in any manner as it will lead to
 										disqualification.</li>
@@ -3120,7 +3131,17 @@ if(!isset($_SESSION)){
 									</li>
 									<li>Further round specific rules will be provided on the day of the event.</li>
 									<li>Participants have to submit a photograph at the time of registration which will
-										be put up on Procyon Instagram Page.</li>
+										be put up on Procyon Instagram Page.</li> -->
+
+										<li>The dress code is decent formal.</li>
+										<li>The Participants should upload their talent performance video (2 mins) at the time of the registration. </li>
+										<li>Vulgarity of any kind should not be portrayed in any manner as it will lead to disqualification.</li>
+										<li>Participants are eligible for participation points even if there is just one entry from a class.</li>
+										<li>Further round specific rules will be provided on the day of the event.</li>
+										<li>Participants must submit a photograph at the time of registration which will be put up on Procyon Instagram Page.</li>
+										<li>The students will vote for their favorite contestant on the day of the performance.</li>
+										<li>For additional points, the participant may upload a 1 min video of any faculty member talking about the contestant during registration.</li> 
+
 
 								</ol>
 
@@ -3150,17 +3171,11 @@ if(!isset($_SESSION)){
 
 										</tr>
 										<tr>
-											<td>Ackyshma Fernandes ( TE ECS )</td>
-											<td></td>
-											<br>
-
-										</tr>
-										<tr>
 											<td> <br>
 												<strong>Faculty Co-ordinator :</strong>
 											</td>
 										</tr>
-									
+
 										<tr>
 											<td>Prof. Norman Dias &nbsp; </td>
 
@@ -3168,6 +3183,9 @@ if(!isset($_SESSION)){
 										<tr>
 											<td>Prof. Avila Naik &nbsp; </td>
 
+										</tr>
+										<tr>
+											<td>Prof.Aniket </td>
 										</tr>
 										<tr>
 											<td>Mr. Milindraj Paigankar&nbsp; </td>
@@ -3336,7 +3354,7 @@ if(!isset($_SESSION)){
 												<strong>Faculty Co-ordinator :</strong>
 											</td>
 										</tr>
-										
+
 										<tr>
 											<td>Prof. Siya Khandeparkar &nbsp; </td>
 
@@ -3620,7 +3638,7 @@ if(!isset($_SESSION)){
 									<li>Maximum two faculty participation earns 25 bonus points.</li>
 									<li>Marks will be deducted if time exceeds.</li>
 									<li>Decent costumes should be worn & crossed checked by student & falculty coordinator a day prior.</li>
-									
+
 								</ol>
 
 								<br>
@@ -3653,10 +3671,10 @@ if(!isset($_SESSION)){
 
 										</tr>
 										<tr>
-											<td>Mrs. Trima Fernandes e Fizardo&nbsp; </td>
+											<td>Prof. Trima Fernandes e Fizardo&nbsp; </td>
 
 										</tr>
-										
+
 									</tbody>
 								</table>
 								<p></p>
@@ -3925,7 +3943,7 @@ if(!isset($_SESSION)){
 								</table>
 
 								<ol>
-									<li>Participants have to submit 2 photos.</li>
+									<li>Each participant will have to submit 1 photo.</li>
 									<li>Event is of 2 days which will have 2 separate themes.
 									</li>
 									<li>Photos must be in jpeg,jpg or png format only.
@@ -3945,7 +3963,7 @@ if(!isset($_SESSION)){
 									<li>The photograph must be original and no watermark of any kind should be present on the photograph.
 									</li>
 									<li>Late submission will be disqualified.</li>
-
+									<li>The theam for this event will be shared later</li>
 								</ol>
 
 								<br>
@@ -4093,7 +4111,8 @@ if(!isset($_SESSION)){
 									<li> All teams must register through CR. <strong>( Note :- Just to ease the process
 											of selection from class, CRs can use the process of first come first serve
 											basis.)</strong></li>
-									<li>3 teams per class of at most 3 members each.</li>
+									<li>2 teams per class of at most 3 members each.</li>
+									<li>Participants have to enter at 9.15 sharp unable to do so will lead to disqualification of the team </li> 
 									<li>Follow all the COVID Protocol.</li>
 									<li>All members of the team must have their ID cards for verification.</li>
 									<li>Other details will be communicated 1 day prior to the event.
