@@ -2344,8 +2344,8 @@ if (!isset($_SESSION)) {
 									<li> Participants have to get their own equipment and materials.</li>
 									<li> Rangoli Size: 100cms x 100cms </li>
 									<li> Participants should use colour powder along with any one of the following
-										items: bangles, petals, clay. However, they cannot use a combination of bangles,
-										petals and clay </li>
+										items: bangles or petals. However, they cannot use a combination of bangles &
+										petals.</li>
 									<li> Theme for the event will be provided 2 days before the event.</li>
 									<li> Rangoli can be accented with other items such as flowers, oil lamps. Use of any
 										other material should be confirmed with the co-ordinator.</li>
@@ -3095,7 +3095,7 @@ if (!isset($_SESSION)) {
 											<td></td>
 											<td>
 												<ol>
-													<li> Round 1:- Introduction & Ramp Walk (2 mins max)</li>
+													<li> Round 1:- Introduction & Ramp Walk (2 minutes)</li>
 													<li> Round 2:- Question Answer Round & voting poll(2 minutes)</li>
 												</ol>
 											</td>
@@ -3116,33 +3116,13 @@ if (!isset($_SESSION)) {
 								</table>
 
 								<ol>
-									<!-- <li>The dress code is decent formal.</li>
-
-									<li> The participants should upload their talent performance video ( 2mins ) at the time  the coorinators well in advance about the talent
-										he/she will be performing and the consequent stage requirements for it </li>
-									<li> Vulgarity of any kind should not be portrayed in any manner as it will lead to
-										disqualification.</li>
-									<li> Use of props is allowed, however no extra time will be given for stage setup
-									</li>
-									<li> Participants are eligible for the participation points even if there is just
-										one entry from a class.</li>
-									<li> One helper is allowed for talent round. Performance or display of talent by the
-										helper is not allowed. Helper’s act will not be judged in any manner.
-									</li>
+									<li>The dress code is decent formal.</li>
+									<li>The Participants should upload their talent performance video (2 mins) at the time of the registration. </li>
+									<li>Vulgarity of any kind should not be portrayed in any manner as it will lead to disqualification.</li>
+									<li>Participants are eligible for participation points even if there is just one entry from a class.</li>
 									<li>Further round specific rules will be provided on the day of the event.</li>
-									<li>Participants have to submit a photograph at the time of registration which will
-										be put up on Procyon Instagram Page.</li> -->
-
-										<li>The dress code is decent formal.</li>
-										<li>The Participants should upload their talent performance video (2 mins) at the time of the registration. </li>
-										<li>Vulgarity of any kind should not be portrayed in any manner as it will lead to disqualification.</li>
-										<li>Participants are eligible for participation points even if there is just one entry from a class.</li>
-										<li>Further round specific rules will be provided on the day of the event.</li>
-										<li>Participants must submit a photograph at the time of registration which will be put up on Procyon Instagram Page.</li>
-										<li>The students will vote for their favorite contestant on the day of the performance.</li>
-										<li>For additional points, the participant may upload a 1 min video of any faculty member talking about the contestant during registration.</li> 
-
-
+									<li>Participants must submit a photograph at the time of registration which will be put up on Procyon Instagram Page.</li>
+									<li>The students will vote for their favorite contestant on the day of the performance.</li>
 								</ol>
 
 								<br>
@@ -3893,9 +3873,9 @@ if (!isset($_SESSION)) {
 										<tr>
 											<td>Time:</td>
 											<td></td>
-											<td>:day 1: 5pm
+											<td>day 1: 5pm
 												<br>
-												:day 2: 1pm
+												day 2: 1pm
 											</td>
 
 
@@ -3943,13 +3923,10 @@ if (!isset($_SESSION)) {
 								</table>
 
 								<ol>
-									<li>Each participant will have to submit 1 photo.</li>
-									<li>Event is of 2 days which will have 2 separate themes.
-									</li>
-									<li>Photos must be in jpeg,jpg or png format only.
-									</li>
-									<li>Photos should be taken between the given time period.
-									</li>
+									<li>Each team has to submit 2 photos ( 1 photo per participant).</li>
+									<li>Event is of 2 days which will have 2 separate themes.</li>
+									<li>Photos must be in jpeg,jpg or png format only.</li>
+									<li>Photos should be taken between the given time period.</li>
 									<li>Use of Mobiles and DSLR cameras is allowed.
 									</li>
 									<li>Use of Drone and Action camera is strictly prohibited.
@@ -4112,7 +4089,7 @@ if (!isset($_SESSION)) {
 											of selection from class, CRs can use the process of first come first serve
 											basis.)</strong></li>
 									<li>2 teams per class of at most 3 members each.</li>
-									<li>Participants have to enter at 9.15 sharp unable to do so will lead to disqualification of the team </li> 
+									<li>Participants have to enter at 9.15 sharp unable to do so will lead to disqualification of the team </li>
 									<li>Follow all the COVID Protocol.</li>
 									<li>All members of the team must have their ID cards for verification.</li>
 									<li>Other details will be communicated 1 day prior to the event.
