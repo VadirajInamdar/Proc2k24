@@ -490,7 +490,6 @@ if (!isset($_SESSION)) {
 
 
 		<!-- Start General rules -->
-
 		<div class="container">
 			<div class="mu-rules-content">
 				<div class="col-lg-12">
@@ -961,20 +960,73 @@ if (!isset($_SESSION)) {
 		</section>
 		<!-- End Sponsors -->
 		<!-- Start Event Order-->
+		<div class="container" style="margin-bottom:20px;">
+			<div class="mu-rules-content">
+				<div class="col-lg-12">
+					<div class="row">
+						<div class="col-md-4"></div>
+						<center>
+							<div class="col-md-4"><!-- Button trigger modal -->
+								<button type="button" class="btn btn-lg btn-block modal-content" data-toggle="modal" data-target="#eventOrder">
+									Event order
+								</button>
+						</center>
 
-		<section id="mu-order">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12">
-						<div class="mu-ordered-area">
-							<div class="mu-title-area">
-								<h3 class="mu-title"><a href="https://docs.google.com/spreadsheets/d/1QFCr2FWSfXsvs8rjmmcILwPDkGbPX9NRetPORtCZccc/edit?usp=drivesdk">Event Order</a></h3>
+						<!-- Modal -->
+						<div class="modal fade" id="eventOrder" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+							<div class="modal-dialog" role="document">
+								<div class="modal-content">
+									<div class="modal-header">
+										<h5 class="modal-title" id="exampleModalLongTitle">Event Order</h5>
+										<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+											<span aria-hidden="true">&times;</span>
+										</button>
+									</div>
+									<div class="modal-body">
+										<table class="table table-bordered table-centered table-responsive mx-auto" border="2">
+											<tr><td><b>DEPARTMENT EVENT</b></td></tr>
+											<tr><td style="text-align:left;">1. Computer Department</td></tr>
+											<tr><td style="text-align:left;">2. Civil Department</td></tr>
+											<tr><td style="text-align:left;">3. ETC / ECS Department</td></tr>
+											<tr><td style="text-align:left;">4. Mechanical Department</td></tr>	
+										</table>
+										<br>
+										<table class="table table-bordered table-centered table-responsive mx-auto" border="2">
+											<tr><td><b>CLASS EVENT</b></td></tr>
+											<tr><td style="text-align:left;">1. FE ECS</td></tr>
+											<tr><td style="text-align:left;">2. BE ETC</td></tr>
+											<tr><td style="text-align:left;">3. TE COMP</td></tr>
+											<tr><td style="text-align:left;">4. TE CIVIL</td></tr>	
+											<tr><td style="text-align:left;">5. FE COMP 2</td></tr>
+											<tr><td style="text-align:left;">6. TE MECH</td></tr>
+											<tr><td style="text-align:left;">7. TE ETC</td></tr>
+											<tr><td style="text-align:left;">8. BE CIVIL</td></tr>	
+											<tr><td style="text-align:left;">9. SE COMP</td></tr>
+											<tr><td style="text-align:left;">10. BE COMP</td></tr>
+											<tr><td style="text-align:left;">11. FE COMP 1</td></tr>
+											<tr><td style="text-align:left;">12. SE ECS</td></tr>
+											<tr><td style="text-align:left;">13. FE CIVIL</td></tr>
+											<tr><td style="text-align:left;">14. FE MECH</td></tr>
+											<tr><td style="text-align:left;">15. SE CIVIL</td></tr>	
+											<tr><td style="text-align:left;">16. BE MECH</td></tr>
+											<tr><td style="text-align:left;">17. SE Mech</td></tr>	
+										</table>
+										
+
+									</div>
+									<div class="modal-footer">
+										<button type="button" class="btn btn-secondary clsbtn" data-dismiss="modal">Close</button>
+									</div>
+								</div>
 							</div>
 						</div>
 					</div>
+					<div class="col-md-4"></div>
 				</div>
 			</div>
-		</section>
+		</div>
+		</div>
+		<!-- End rules -->
 
 		<!-- End Event Order -->
 
