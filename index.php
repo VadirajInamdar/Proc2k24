@@ -984,34 +984,80 @@ if (!isset($_SESSION)) {
 									</div>
 									<div class="modal-body">
 										<table class="table table-bordered table-centered table-responsive mx-auto" border="2">
-											<tr><td><b>DEPARTMENT EVENT</b></td></tr>
-											<tr><td style="text-align:left;">1. Computer Department</td></tr>
-											<tr><td style="text-align:left;">2. Civil Department</td></tr>
-											<tr><td style="text-align:left;">3. ETC / ECS Department</td></tr>
-											<tr><td style="text-align:left;">4. Mechanical Department</td></tr>	
+											<tr>
+												<td><b>DEPARTMENT EVENT</b></td>
+											</tr>
+											<tr>
+												<td style="text-align:left;">1. Computer Department</td>
+											</tr>
+											<tr>
+												<td style="text-align:left;">2. Civil Department</td>
+											</tr>
+											<tr>
+												<td style="text-align:left;">3. ETC / ECS Department</td>
+											</tr>
+											<tr>
+												<td style="text-align:left;">4. Mechanical Department</td>
+											</tr>
 										</table>
 										<br>
 										<table class="table table-bordered table-centered table-responsive mx-auto" border="2">
-											<tr><td><b>CLASS EVENT</b></td></tr>
-											<tr><td style="text-align:left;">1. FE ECS</td></tr>
-											<tr><td style="text-align:left;">2. BE ETC</td></tr>
-											<tr><td style="text-align:left;">3. TE COMP</td></tr>
-											<tr><td style="text-align:left;">4. TE CIVIL</td></tr>	
-											<tr><td style="text-align:left;">5. FE COMP 2</td></tr>
-											<tr><td style="text-align:left;">6. TE MECH</td></tr>
-											<tr><td style="text-align:left;">7. TE ETC</td></tr>
-											<tr><td style="text-align:left;">8. BE CIVIL</td></tr>	
-											<tr><td style="text-align:left;">9. SE COMP</td></tr>
-											<tr><td style="text-align:left;">10. BE COMP</td></tr>
-											<tr><td style="text-align:left;">11. FE COMP 1</td></tr>
-											<tr><td style="text-align:left;">12. SE ECS</td></tr>
-											<tr><td style="text-align:left;">13. FE CIVIL</td></tr>
-											<tr><td style="text-align:left;">14. FE MECH</td></tr>
-											<tr><td style="text-align:left;">15. SE CIVIL</td></tr>	
-											<tr><td style="text-align:left;">16. BE MECH</td></tr>
-											<tr><td style="text-align:left;">17. SE Mech</td></tr>	
+											<tr>
+												<td><b>CLASS EVENT</b></td>
+											</tr>
+											<tr>
+												<td style="text-align:left;">1. FE ECS</td>
+											</tr>
+											<tr>
+												<td style="text-align:left;">2. BE ETC</td>
+											</tr>
+											<tr>
+												<td style="text-align:left;">3. TE COMP</td>
+											</tr>
+											<tr>
+												<td style="text-align:left;">4. TE CIVIL</td>
+											</tr>
+											<tr>
+												<td style="text-align:left;">5. FE COMP 2</td>
+											</tr>
+											<tr>
+												<td style="text-align:left;">6. TE MECH</td>
+											</tr>
+											<tr>
+												<td style="text-align:left;">7. TE ETC</td>
+											</tr>
+											<tr>
+												<td style="text-align:left;">8. BE CIVIL</td>
+											</tr>
+											<tr>
+												<td style="text-align:left;">9. SE COMP</td>
+											</tr>
+											<tr>
+												<td style="text-align:left;">10. BE COMP</td>
+											</tr>
+											<tr>
+												<td style="text-align:left;">11. FE COMP 1</td>
+											</tr>
+											<tr>
+												<td style="text-align:left;">12. SE ECS</td>
+											</tr>
+											<tr>
+												<td style="text-align:left;">13. FE CIVIL</td>
+											</tr>
+											<tr>
+												<td style="text-align:left;">14. FE MECH</td>
+											</tr>
+											<tr>
+												<td style="text-align:left;">15. SE CIVIL</td>
+											</tr>
+											<tr>
+												<td style="text-align:left;">16. BE MECH</td>
+											</tr>
+											<tr>
+												<td style="text-align:left;">17. SE Mech</td>
+											</tr>
 										</table>
-										
+
 
 									</div>
 									<div class="modal-footer">
@@ -3143,16 +3189,6 @@ if (!isset($_SESSION)) {
 											<br>
 										</tr>
 										<tr>
-											<td></td>
-											<td></td>
-											<td>
-												<ol>
-													<li> Round 1:- Introduction & Ramp Walk (2 minutes)</li>
-													<li> Round 2:- Question Answer Round & voting poll(2 minutes)</li>
-												</ol>
-											</td>
-										</tr>
-										<tr>
 											<td>Judgement Criteria &nbsp;</td>
 											<td>:</td>
 											<td>Attire, Personality, Talent showcase, Questions fielded, faculty participation,community service & voting poll.</td>
@@ -3169,15 +3205,35 @@ if (!isset($_SESSION)) {
 
 								<ol>
 									<li>The dress code is decent formal.</li>
-									<li>The Participants should upload their talent performance video (2 mins) at the time of the registration. </li>
+									<li>Participants should create their talent performance video that can be performed on stage if qualified for the talent round (2 mins) and contact Student Coordinator Mr. Anish Naik (TE COMP) for further details on video submission.</li>
+									<li>Guidance on Video making will be provided by Student Coordinator Mr. Darshil Naik (TE COMP).</li>
 									<li>Vulgarity of any kind should not be portrayed in any manner as it will lead to disqualification.</li>
 									<li>Participants are eligible for participation points even if there is just one entry from a class.</li>
-									<li>Further round specific rules will be provided on the day of the event.</li>
-									<li>Participants must submit a photograph at the time of registration which will be put up on Procyon Instagram Page.</li>
-									<li>The students will vote for their favorite contestant on the day of the performance.</li>
+									<li>During the voting poll, the staff (Teaching & Non-teaching) will vote for their favorite contestant on Monday, 4 March 2024 from 8.00 am to 12.00 midnight.</li>
+									<li>
+										The rounds are as follows :
+										<br>
+										<table>
+											<thead><tr><th>Round 1: Judgment based on the following criteria</th></tr></thead>
+											<tr><td>a. Introduction & Ramp Walk</td></tr>
+											<tr><td>b. Talent Videos</td></tr>
+											<tr><td>c. Voting Poll by staff ( teaching & non teaching ) </td></tr>
+											<tr><td>d. Community Service</td></tr>
+										</table>
+										<br>
+										<table>
+											<thead><tr><th>Round 2: Qualifying participants eligible for Round 2</th></tr></thead>
+											<tr><td>a. Judgement based on stage performance of the talent.</td></tr>
+										</table>
+										<br>
+										<table>
+											<thead><tr><th>Round 3: Question & Answer Round by the Judges.</th></tr></thead>
+											<tr><td></td></tr>
+										</table>
+									</li>
 								</ol>
-
 								<br>
+
 								<table>
 									<tbody>
 										<tr>
@@ -3191,6 +3247,19 @@ if (!isset($_SESSION)) {
 
 										</tr>
 										<tr>
+											<td>Darshil Naik ( TE COMP) </td>
+											<td >&nbsp;8010145292(Video guidance & making)</td>
+											<br>
+
+										</tr>
+										<tr>
+											<td>Anish Naik ( TE COMP ) </td>
+											<td>&nbsp;9022541380 (Video Submission)</td>
+											<br>
+
+										</tr>
+										
+										<tr>
 											<td>Siddhi Naik (SE COMP)</td>
 											<td>9322600920</td>
 											<br>
@@ -3203,9 +3272,7 @@ if (!isset($_SESSION)) {
 
 										</tr>
 										<tr>
-											<td> <br>
-												<strong>Faculty Co-ordinator :</strong>
-											</td>
+											<td><br><strong>Faculty Co-ordinator :</strong></td>
 										</tr>
 
 										<tr>
