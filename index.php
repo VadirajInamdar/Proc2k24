@@ -2445,8 +2445,7 @@ if (!isset($_SESSION)) {
 										items: bangles or petals. However, they cannot use a combination of bangles &
 										petals.</li>
 									<li> Theme for the event will be provided 2 days before the event.</li>
-									<li> Rangoli can be accented with other items such as flowers, oil lamps. Use of any
-										other material should be confirmed with the co-ordinator.</li>
+									<li> Use of any other material should be confirmed with the co-ordinator.</li>
 									<li> (REFERENCE NOT ALLOWED) Mobile phones and designs already made on paper cannot
 										be used while making the rangoli. However, participants can carry blank paper to
 										draw their design during the competetion.</li>
