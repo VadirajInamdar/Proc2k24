@@ -1615,7 +1615,7 @@ if (!isset($_SESSION)) {
 										<tr>
 											<td>Theme</td>
 											<td>:</td>
-											<td>Social media circus</td>
+											<td>The Great Lab Escape</td>
 
 										</tr>
 
@@ -4208,7 +4208,6 @@ if (!isset($_SESSION)) {
 											basis.)</strong></li>
 									<li>2 teams per class of at most 3 members each.</li>
 									<li>Participants have to enter at 9.15 sharp unable to do so will lead to disqualification of the team </li>
-									<li>Follow all the COVID Protocol.</li>
 									<li>All members of the team must have their ID cards for verification.</li>
 									<li>Other details will be communicated 1 day prior to the event.
 									</li>
