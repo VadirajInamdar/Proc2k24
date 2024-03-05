@@ -587,7 +587,7 @@ if (!isset($_SESSION)) {
 										<h5>Note:</h5>
 										<ol class="generalrules-content">
 											<li><b>PARTICIPATION POINTS:</b>Teams participating in all events will get
-												100 bonus points. All points earned by classes will go to their respective departments and the total tally will declare the overall winner.</li>
+												100 bonus points.</li>
 											<li><b>JOKER CARD:</b>There will be 2 joker cards i.e. one for class event
 												and one for department event. Each class can put a joker on any class
 												event. If that class wins that event then they will get double the
